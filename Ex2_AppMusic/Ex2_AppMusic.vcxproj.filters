@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TaiKhoan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaiHat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaiHatBanQuyen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaiHatPhoThong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TaiKhoan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaiHat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaiHatBanQuyen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaiHatPhoThong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="DanhSachBaiHat\NhacBanQuyen\Alone.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacBanQuyen\DanhSachNhac.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacBanQuyen\Love Is Gone.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacBanQuyen\Only.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacBanQuyen\Sai Nguoi Sai Thoi Diem.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacBanQuyen\What Is Love.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacPhoThong\As If It’s Your Last.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacPhoThong\Baby.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacPhoThong\Con Mua Ngang Qua.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacPhoThong\DanhSachNhac.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacPhoThong\How Long.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DanhSachBaiHat\NhacPhoThong\Lemon.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
